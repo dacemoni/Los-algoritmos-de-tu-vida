@@ -1,8 +1,10 @@
 ¿Qué algoritmos usas en tu vida cotidiana? ¿Piensas que podrías escribir un programa para hacerlos más eficientes?
-- 
+	- Depende del dia, seguir un horario para ser eficiente con tareas para separar los subprocesos.
 
 ¿Qué algoritmos crees que usan por tus juegos y aplicaciones favoritas?
-- 
+	- De todo tipo, para comprobar todas las acciones que hace el jugador.
 
 ¿Haz hecho alguna vez un algoritmo para un programa? ¿Qué hacía? ¿Era correcto y eficiente?
-- 
+	- Usé un algoritmo de A* de busqueda de caminos para una práctica de inteligencia artificial, 
+	buscaba el camino segun los criterios que le pusieras en una red de metro de una ciudad grande, 
+	supongo que podria ser mas eficiente o con menos redundancia.
